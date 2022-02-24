@@ -20,8 +20,7 @@ public class hw26_3 {
         System.out.println(s1.compareToIgnoreCase(s2));
 
 
-
-
-
+        System.out.println(" practice in class _________________");
+        System.out.println("------------------------------------");
     }
 }
